@@ -16,7 +16,7 @@ async function bootstrap() {
 
 
   app.enableCors({
-    origin: 'https://frondendhc.netlify.app',
+    origin: 'https://historia-clinica-uc.netlify.app',
     methods: 'GET,HEAD,PUT,PATCH,POST,DELETE,OPTIONS',
     credentials: true,
   });
